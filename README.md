@@ -59,6 +59,6 @@ Add an employee: Prompts for the first name, last name, role, and manager of the
 Update an employee role: Prompts to select an employee and their new role, then updates the employee's role in the database.
 
 
-Google Drive Link:
+Google Drive Link: https://drive.google.com/file/d/16k-BCGQN8EsI_OZgIkGqIYddATdD9B2n/view?usp=sharing
 
-Github Link:
+Github Link: https://github.com/ekookten/SQL-Employee-Tracker
